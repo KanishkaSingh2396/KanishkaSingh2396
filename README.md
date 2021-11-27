@@ -1,5 +1,4 @@
-### 🚀 ABOUT ME
-****
+![image](https://user-images.githubusercontent.com/89623051/143682574-ccea2e5a-81f7-4453-8d77-e05c57bd4bf8.png)
 
 - 🔭 I’m currently working on SQL Projects
 - 🌱 I’m currently learning SQL and Python
@@ -11,8 +10,9 @@
 <a href = "https://www.hackerrank.com/kanishka_singh_1"><img src="https://github.com/KanishkaSingh2396/KanishkaSingh2396/blob/main/icons8-hackerrank-32%20(1).png"/></a>
 <a href = "https://github.com/KanishkaSingh2396"><img src="https://github.com/KanishkaSingh2396/KanishkaSingh2396/blob/main/icons8-github-30.png"/></a>
 
-### 🚀 Languages and Tools:
 ****
+
+### 🚀 Languages and Tools:
 
 <p align="left"> 
     <img src="https://img.icons8.com/fluent/48/000000/python.png"/> </a> 
@@ -21,9 +21,9 @@
     <img src="https://github.com/KanishkaSingh2396/KanishkaSingh2396/blob/main/icons8-power-bi-48.png"/> </a>
     <img src="https://github.com/KanishkaSingh2396/KanishkaSingh2396/blob/main/icons8-tableau-software-48.png"/> </a>
 
-  
-### 🚀View My 8 Week SQL Challenge Solution Repositories
 ****
+
+### 🚀View My 8 Week SQL Challenge Solution Repositories
 
 1. [Danny's Diner](https://github.com/KanishkaSingh2396/Dannys_Diner/blob/main/README.md) :yum:
 2. [Pizza Runner](https://github.com/KanishkaSingh2396/PizzaRunner_CS/blob/main/README.md) :running:
@@ -34,8 +34,10 @@
 7. [Balanced Tree](https://github.com/KanishkaSingh2396/Balanced_Tree_CS_7/blob/main/README.md) :outbox_tray:
 8. [Fresh Segments](https://github.com/KanishkaSingh2396/Fresh_Segments_CS_8/blob/main/README.md) :pushpin:
 
-### 🚀Stats 📈  
 ****
+
+### 🚀My Github Stats 📈  
 
 [![stats](https://github-readme-stats.vercel.app/api?username=KanishkaSingh2396&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/KanishkaSingh2396)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaSingh2396&layout=compact)](https://github.com/KanishkaSingh2396)
+****
