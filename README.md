@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning SQL and Python
 - 👯 I’m looking to collaborate on live projects
 - 💬 Ask me about data analysis, data visualisation, data cleaning, sql, data science, statistics and marketing
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/kanishkasingh1996/) [Gmail](kanishka.singh.2396@gmail.com)
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/kanishkasingh1996/), kanishka.singh.2396@gmail.com
 - ⚡ Fun fact: :books:, :moneybag:, :tea:
 
 <a href = "https://www.hackerrank.com/kanishka_singh_1"><img src="https://github.com/KanishkaSingh2396/KanishkaSingh2396/blob/main/icons8-hackerrank-32%20(1).png"/></a>
